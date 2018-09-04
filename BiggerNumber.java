@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /*
  * Author: Kamrul Hasan
- * 13th batch,PSTU
+ * CSE 13th batch,PSTU
  */
 public class BiggerNumber {
 
