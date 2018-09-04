@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 /*
- * This is a simple java program to understand array
  * Author: Kamrul Hasan
  * 13th batch,PSTU
  */
