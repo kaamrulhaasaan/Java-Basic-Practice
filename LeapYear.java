@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
 /*
- * This is a simple java program to understand array
  * Author: Kamrul Hasan
- * 13th batch,PSTU
+ * CSE 13th batch,PSTU
  */
 public class LeapYear {
 	public static void main(String[] args) {
