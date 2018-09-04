@@ -42,7 +42,9 @@ public class Fibonacci {
 				count++;
 			}
 		}
-		System.out.println("\n"+count);
+		
+		//if you want to check the value of count then remove the comment below.
+		//System.out.println("\n"+count);
 	}
 
 }
